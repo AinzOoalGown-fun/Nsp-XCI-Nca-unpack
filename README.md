@@ -82,6 +82,10 @@ Download last version of DBI and install it on the switch.
 Remove the official game if you have it in the switch with DBI
 Install from DBI the game.
 
+
+I showed you the 1 method.
+The 2 method is to modify the other nca .tik files ...
+
 I create group discord to mod Ju t da.ce  ( switch) send me mp. 👻
 
 Now go mod -_- 👻
